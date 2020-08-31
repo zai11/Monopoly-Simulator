@@ -1,0 +1,137 @@
+---
+Cards:
+    Community Chest:
+        0:
+            name: "Advance to Go."
+            action: "goto 0 collect"
+            must_use: true
+        1:
+            name: "Bank error in your favour. Collect $200"
+            action: "collect 200"
+            must_use: true
+        2:
+            name: "Doctor's fees. Pay $50"
+            action: "pay 50"
+            must_use: true
+        3:
+            name: "From sale of stock you get $50"
+            action: "collect 50"
+            must_use: true
+        4:
+            name: "Get out of jail free"
+            action: "goto 11"
+            must_use: false
+        5:
+            name: "Go to Jail"
+            action: "goto 10"
+            must_use: true
+        6:
+            name: "Grand opera night. Collect $50 from every player for opening night seats."
+            action: "collect every 50"
+            must_use: true
+        7:
+            name: "Holiday fund matures. Receive $100"
+            action: "collect 100"
+            must_use: true
+        8:
+            name: "Income tax refund. Collect $20"
+            action: "collect 20"
+            must_use: true
+        9:
+            name: "It is your birthday. Collect $10 from every player."
+            action: "collect every 10"
+            must_use: true
+        10:
+            name: "Life insurance matures. Collect $100."
+            action: "collect 100"
+            must_use: true
+        11:
+            name: "Hospital fees. Pay $50."
+            action: "pay 50"
+            must_use: true
+        12:
+            name: "School fees. Pay $50."
+            action: "pay 50"
+            must_use: true
+        13:
+            name: "Receive $25 consultancy fee."
+            action: "collect 25"
+            must_use: true
+        14:
+            name: "You are assessed for street repairs: Pay $40 per house and $115 per hotel you own."
+            action: "pay 40 * house, 115 * hotel"
+            must_use: true
+        15:
+            name: "You have won second prize in a beauty contest. Collect $10."
+            action: "collect 10"
+            must_use: true
+        16:
+            name: "You inherit $100."
+            action: "collect 100"
+            must_use: true
+        
+    Chance:
+        0:
+            name: "Advance to Go."
+            action: "goto 0 collect"
+            must_use: true
+        1:
+            name: "Go to Jail."
+            action: "goto 10"
+            must_use: true
+        2:
+            name: "Advance to Pall Mall."
+            action: "goto 12 collect"
+            must_use: true
+        3:
+            name: "Take a trip to Marylebone Station."
+            action: "goto 16 collect"
+            must_use: true
+        4:
+            name: "Advance to Trafalgar Square."
+            action: "goto 25 collect"
+            must_use: true
+        5:
+            name: "Advance to Mayfair."
+            action: "goto 40"
+            must_use: true
+        6:
+            name: "Go back three spaces."
+            action: "goto -3"
+            must_use: true
+        7:
+            name: "Make general repairs on all of your houses. For each house pay $25. For each hotel pay $100."
+            action: "pay 25 * house, 100 * hotel"
+            must_use: true
+        8:
+            name: "You are assessed for street repairs: $40 per house, $115 per hotel."
+            action: "pay 40 * house, 115 * hotel"
+            must_use: true
+        9:
+            name: "Pay school fees of $150."
+            action: "pay 150"
+            must_use: true
+        10:
+            name: "'Drunk in charge' fine $20."
+            action: "pay 20"
+            must_use: true
+        11:
+            name: "Speeding fine $15."
+            action: "pay 15"
+            must_use: true
+        12:
+            name: "Your building loan matures. Receive $150."
+            action: "collect 150"
+            must_use: true
+        13:
+            name: "You have won a crossword competition. Collect $100."
+            action: "collect 100"
+            must_use: true
+        14:
+            name: "Bank pays you dividend of $50."
+            action: "collect 50"
+            must_use: true
+        15:
+            name: "Get out of jail free."
+            action: "goto 11"
+            must_use: false

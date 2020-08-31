@@ -1,0 +1,309 @@
+---
+Properties:
+    Coloured:
+        0:
+            name: "Old Kent Road"
+            colour: "Brown"
+            purchase_price: 60
+            rent: 2
+            price_with_1_house: 10
+            price_with_2_houses: 30
+            price_with_3_houses: 90
+            price_with_4_houses: 160
+            price_with_hotel: 250
+            house_cost: 30
+            mortgage_value: 50
+        1:
+            name: "Whitechapel Road"
+            colour: "Brown"
+            purchase_price: 60
+            rent: 4
+            price_with_1_house: 20
+            price_with_2_houses: 60
+            price_with_3_houses: 180
+            price_with_4_houses: 360
+            price_with_hotel: 450
+            house_cost: 30
+            mortgage_value: 50
+        2:
+            name: "The Angel Islington"
+            colour: "Light Blue"
+            purchase_price: 100
+            rent: 6
+            price_with_1_house: 30
+            price_with_2_houses: 90
+            price_with_3_houses: 270
+            price_with_4_houses: 400
+            price_with_hotel: 550
+            house_cost: 50
+            mortgage_value: 50
+        3:
+            name: "Euston Road"
+            colour: "Light Blue"
+            purchase_price: 100
+            rent: 6
+            price_with_1_house: 30
+            price_with_2_houses: 90
+            price_with_3_houses: 270
+            price_with_4_houses: 400
+            price_with_hotel: 550
+            house_cost: 50
+            mortgage_value: 50
+        4:
+            name: "Pentonville Road"
+            colour: "Light Blue"
+            purchase_price: 120
+            rent: 8
+            price_with_1_house: 40
+            price_with_2_houses: 100
+            price_with_3_houses: 300
+            price_with_4_houses: 450
+            price_with_hotel: 600
+            house_cost: 50
+            mortgage_value: 60
+        5:
+            name: "Pall Mall"
+            colour: "Pink"
+            purchase_price: 140
+            rent: 10
+            price_with_1_house: 50
+            price_with_2_houses: 150
+            price_with_3_houses: 450
+            price_with_4_houses: 625
+            price_with_hotel: 750
+            house_cost: 100
+            mortgage_value: 70
+        6:
+            name: "Whitehall"
+            colour: "Pink"
+            purchase_price: 140
+            rent: 10
+            price_with_1_house: 50
+            price_with_2_houses: 150
+            price_with_3_houses: 450
+            price_with_4_houses: 625
+            price_with_hotel: 750
+            house_cost: 100
+            mortgage_value: 70
+        7:
+            name: "Northumberland Avenue"
+            colour: "Pink"
+            purchase_price: 160
+            rent: 12
+            price_with_1_house: 60
+            price_with_2_houses: 180
+            price_with_3_houses: 500
+            price_with_4_houses: 700
+            price_with_hotel: 900
+            house_cost: 100
+            mortgage_value: 80
+        8:
+            name: "Bow Street"
+            colour: "Orange"
+            purchase_price: 180
+            rent: 14
+            price_with_1_house: 70
+            price_with_2_houses: 200
+            price_with_3_houses: 550
+            price_with_4_houses: 750
+            price_with_hotel: 950
+            house_cost: 100
+            mortgage_value: 90
+        9:
+            name: "Marlborough Street"
+            colour: "Orange"
+            purchase_price: 180
+            rent: 14
+            price_with_1_house: 70
+            price_with_2_houses: 200
+            price_with_3_houses: 550
+            price_with_4_houses: 750
+            price_with_hotel: 950
+            house_cost: 100
+            mortgage_value: 90
+        10:
+            name: "Vine Street"
+            colour: "Orange"
+            purchase_price: 200
+            rent: 16
+            price_with_1_house: 80
+            price_with_2_houses: 220
+            price_with_3_houses: 600
+            price_with_4_houses: 800
+            price_with_hotel: 1000
+            house_cost: 100
+            mortgage_value: 100
+        11:
+            name: "The Strand"
+            colour: "Red"
+            purchase_price: 220
+            rent: 18
+            price_with_1_house: 90
+            price_with_2_houses: 250
+            price_with_3_houses: 700
+            price_with_4_houses: 875
+            price_with_hotel: 1050
+            house_cost: 150
+            mortgage_value: 110
+        12:
+            name: "Fleet Street"
+            colour: "Red"
+            purchase_price: 220
+            rent: 18
+            price_with_1_house: 90
+            price_with_2_houses: 250
+            price_with_3_houses: 700
+            price_with_4_houses: 875
+            price_with_hotel: 1050
+            house_cost: 150
+            mortgage_value: 110
+        13: 
+            name: "Trafalgar Square"
+            colour: "Red"
+            purchase_price: 240
+            rent: 20
+            price_with_1_house: 100
+            price_with_2_houses: 300
+            price_with_3_houses: 750
+            price_with_4_houses: 925
+            price_with_hotel: 1100
+            house_cost: 150
+            mortgage_value: 120
+        14:
+            name: "Leicester Square"
+            colour: "Yellow"
+            purchase_price: 260
+            rent: 22
+            price_with_1_house: 110
+            price_with_2_houses: 330
+            price_with_3_houses: 800
+            price_with_4_houses: 975
+            price_with_hotel: 1150
+            house_cost: 150
+            mortgage_value: 150
+        15:
+            name: "Coventry Street"
+            colour: "Yellow"
+            purchase_price: 260
+            rent: 22
+            price_with_1_house: 110
+            price_with_2_houses: 330
+            price_with_3_houses: 800
+            price_with_4_houses: 975
+            price_with_hotel: 1150
+            house_cost: 150
+            mortgage_value: 150
+        16:
+            name: "Piccadilly"
+            colour: "Yellow"
+            purchase_price: 280
+            rent: 24
+            price_with_1_house: 120
+            price_with_2_houses: 360
+            price_with_3_houses: 850
+            price_with_4_houses: 1025
+            price_with_hotel: 1200
+            house_cost: 150
+            mortgage_value: 150
+        17:
+            name: "Regent Street"
+            colour: "Green"
+            purchase_price: 300
+            rent: 26
+            price_with_1_house: 130
+            price_with_2_houses: 390
+            price_with_3_houses: 900
+            price_with_4_houses: 1100
+            price_with_hotel: 1275
+            house_cost: 200
+            mortgage_value: 150
+        18:
+            name: "Oxford Street"
+            colour: "Green"
+            purchase_price: 300
+            rent: 26
+            price_with_1_house: 130
+            price_with_2_houses: 390
+            price_with_3_houses: 900
+            price_with_4_houses: 1100
+            price_with_hotel: 1275
+            house_cost: 200
+            mortgage_value: 150
+        19:
+            name: "Bond Street"
+            colour: "Green"
+            purchase_price: 320
+            rent: 28
+            price_with_1_house: 150
+            price_with_2_houses: 450
+            price_with_3_houses: 1000
+            price_with_4_houses: 1200
+            price_with_hotel: 1400
+            house_cost: 200
+            mortgage_value: 160
+        20:
+            name: "Park Lane"
+            colour: "Dark Blue"
+            purchase_price: 350
+            rent: 35
+            price_with_1_house: 175
+            price_with_2_houses: 500
+            price_with_3_houses: 1100
+            price_with_4_houses: 1300
+            price_with_hotel: 1500
+            house_cost: 200
+            mortgage_value: 175
+        21:
+            name: "Mayfair"
+            colour: "Dark Blue"
+            purchase_price: 400
+            rent: 50
+            price_with_1_house: 200
+            price_with_2_houses: 600
+            price_with_3_houses: 1400
+            price_with_4_houses: 1700
+            price_with_hotel: 2000
+            house_cost: 200
+            mortgage_value: 200
+    Stations:
+        0:
+            name: "King's Cross Station"
+            purchase_price: 200
+            rent: 25
+            price_2_owned: 50
+            price_3_owned: 100
+            price_4_owned: 200
+            mortgage_value: 100
+        1:
+            name: "Marylbone Station"
+            purchase_price: 200
+            rent: 25
+            price_2_owned: 50
+            price_3_owned: 100
+            price_4_owned: 200
+            mortgage_value: 100
+        2:
+            name: "Fenchurch St Station"
+            purchase_price: 200
+            rent: 25
+            price_2_owned: 50
+            price_3_owned: 100
+            price_4_owned: 200
+            mortgage_value: 100
+        3:
+            name: "Liverpool Street Station"
+            purchase_price: 200
+            rent: 25
+            price_2_owned: 50
+            price_3_owned: 100
+            price_4_owned: 200
+            mortgage_value: 100
+    Utilities:
+        0:
+            name: "Electric Company"
+            purchase_price: 150
+            mortgage_value: 75
+        1:
+            name: "Water Works"
+            purchase_price: 150
+            mortgage_value: 75

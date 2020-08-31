@@ -1,0 +1,82 @@
+---
+Monopoly Game:
+    Round 1:
+        Positions:
+            - 9
+            - 7
+            - 6
+            - 6
+            - 10
+            - 9
+        Balances:
+            - 1500
+            - 1388
+            - 1500
+            - 1400
+            - 1500
+            - 1492
+        Properties:
+            0:
+            1:
+                - 4
+            2:
+            3:
+                - 2
+            4:
+            5:
+        Cards Drawn:
+            Chance:
+                0:
+                1:
+                    - 6
+                2:
+                3:
+                4:
+                5:
+            Community Chest:
+                0:
+                1:
+                2:
+                3:
+                4:
+                5:
+    Round 2:
+        Positions:
+            - 19
+            - 17
+            - 15
+            - 10
+            - 17
+            - 11
+        Balances:
+            - 1500
+            - 1388
+            - 1500
+            - 1400
+            - 1500
+            - 1492
+        Properties:
+            0:
+            1:
+                - 4
+            2:
+            3:
+                - 2
+            4:
+            5:
+        Cards Drawn:
+            Chance:
+                0:
+                1:
+                    - 6
+                2:
+                3:
+                4:
+                5:
+            Community Chest:
+                0:
+                1:
+                2:
+                3:
+                4:
+                5:
